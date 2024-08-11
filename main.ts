@@ -70,5 +70,4 @@ enum Direction {
   Left,
   Right,
 }
-
 let dir: Direction = Direction.Up;
