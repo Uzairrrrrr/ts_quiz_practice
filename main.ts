@@ -70,4 +70,9 @@ enum Direction {
   Left,
   Right,
 }
+
 let dir: Direction = Direction.Up;
+const substraction = (a: number,b: number) => {
+    return a - b;
+}
+substraction(1,5)

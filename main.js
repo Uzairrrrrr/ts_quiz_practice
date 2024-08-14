@@ -62,4 +62,8 @@ var Direction;
     Direction[Direction["Right"] = 3] = "Right";
 })(Direction || (Direction = {}));
 let dir = Direction.Up;
+const substraction = (a, b) => {
+    return a - b;
+};
+substraction(1, 5);
 export {};
