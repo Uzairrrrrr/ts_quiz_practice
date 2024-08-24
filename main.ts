@@ -64,6 +64,7 @@ setTimeout(() => {
 }, 1000);
 
 // Enum
+
 enum Direction {
   Up,
   Down,
